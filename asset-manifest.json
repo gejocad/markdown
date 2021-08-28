@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gejocad/markdown.git/static/css/main.1fad2b62.chunk.css",
-    "main.js": "/gejocad/markdown.git/static/js/main.c2fb9132.chunk.js",
-    "main.js.map": "/gejocad/markdown.git/static/js/main.c2fb9132.chunk.js.map",
+    "main.css": "/gejocad/markdown.git/static/css/main.0ecf23cc.chunk.css",
+    "main.js": "/gejocad/markdown.git/static/js/main.11ef0614.chunk.js",
+    "main.js.map": "/gejocad/markdown.git/static/js/main.11ef0614.chunk.js.map",
     "runtime-main.js": "/gejocad/markdown.git/static/js/runtime-main.9d40acdb.js",
     "runtime-main.js.map": "/gejocad/markdown.git/static/js/runtime-main.9d40acdb.js.map",
-    "static/js/2.a5d6a861.chunk.js": "/gejocad/markdown.git/static/js/2.a5d6a861.chunk.js",
-    "static/js/2.a5d6a861.chunk.js.map": "/gejocad/markdown.git/static/js/2.a5d6a861.chunk.js.map",
+    "static/js/2.cedc57c9.chunk.js": "/gejocad/markdown.git/static/js/2.cedc57c9.chunk.js",
+    "static/js/2.cedc57c9.chunk.js.map": "/gejocad/markdown.git/static/js/2.cedc57c9.chunk.js.map",
     "index.html": "/gejocad/markdown.git/index.html",
-    "static/css/main.1fad2b62.chunk.css.map": "/gejocad/markdown.git/static/css/main.1fad2b62.chunk.css.map",
-    "static/js/2.a5d6a861.chunk.js.LICENSE.txt": "/gejocad/markdown.git/static/js/2.a5d6a861.chunk.js.LICENSE.txt"
+    "static/css/main.0ecf23cc.chunk.css.map": "/gejocad/markdown.git/static/css/main.0ecf23cc.chunk.css.map",
+    "static/js/2.cedc57c9.chunk.js.LICENSE.txt": "/gejocad/markdown.git/static/js/2.cedc57c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d40acdb.js",
-    "static/js/2.a5d6a861.chunk.js",
-    "static/css/main.1fad2b62.chunk.css",
-    "static/js/main.c2fb9132.chunk.js"
+    "static/js/2.cedc57c9.chunk.js",
+    "static/css/main.0ecf23cc.chunk.css",
+    "static/js/main.11ef0614.chunk.js"
   ]
 }
